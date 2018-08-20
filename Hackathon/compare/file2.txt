@@ -1,0 +1,1 @@
+{"confidence": 97.389, "request_id": "1534458569,dd4ac4d6-e3c6-46b6-91a5-227ffd691a29", "time_used": 498, "thresholds": {"1e-3": 62.327, "1e-5": 73.975, "1e-4": 69.101}}
